@@ -4,7 +4,7 @@ Personal website at https://summerlii.github.io, published through GitHub Pages 
 
 ## Content
 
-Education and work experience, course and NASA research projects, publication links with accessible pipeline diagrams, profile photo, and contact links.
+Personal introduction and work experience, course and NASA research projects, publication links with accessible pipeline diagrams, profile photo, and contact links.
 
 ## Search visibility
 
