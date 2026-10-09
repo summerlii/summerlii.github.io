@@ -4,3 +4,4 @@ Allow: /
 Disallow: /profile.png
 Disallow: /cs229-report.pdf
 Disallow: /cs109-custom-midterm.pdf
+Disallow: /promys-exploration-report.pdf
