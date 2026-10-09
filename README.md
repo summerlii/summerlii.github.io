@@ -4,7 +4,7 @@ Personal website at https://summerlii.github.io, published through GitHub Pages 
 
 ## Content
 
-Personal introduction and social links; Research with course and NASA projects; Work Experience; More Projects with PROMYS, CS109, and high-school biometrics. Gallery is a separate, currently empty page. Projects include accessible diagrams and available artifact links.
+Personal introduction and social links; Research with course and NASA projects; Work Experience; Coursework grouped into Computer Science and Mathematics & Statistics; More Projects with PROMYS, CS109, and high-school biometrics. Gallery is a separate, currently empty page. Projects include accessible diagrams and available artifact links.
 
 ## Search visibility
 
