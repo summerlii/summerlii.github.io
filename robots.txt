@@ -1,0 +1,4 @@
+# Allow crawlers to read the noindex directives in index.html.
+# Blocking crawling here can prevent search engines from seeing noindex.
+User-agent: *
+Allow: /
