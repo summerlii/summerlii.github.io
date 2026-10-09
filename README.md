@@ -1,23 +1,17 @@
-# Summer Li — personal website
+# Summer Li — student portfolio
 
-A responsive, dependency-free landing page for `https://summerlii.github.io`.
+Personal website at https://summerlii.github.io, published through GitHub Pages from the main branch root. No build step or external dependencies.
 
-## Publishing
+## Content
 
-The account must own the GitHub username `summerlii` to publish at this address.
-Create a repository named `summerlii.github.io` on that account. If it already exists, review its contents before making changes.
-Upload these files to the root of the `main` branch, including `.nojekyll`.
-In **Settings → Pages**, choose **Deploy from a branch**, then **main** and **/(root)**. Save and wait for deployment.
-Use a private repository if the account's GitHub plan supports Pages from private repositories; otherwise a public repository is required.
+Education and work experience, three machine-learning research projects with accessible pipeline diagrams, profile photo, and contact links.
 
-## Search visibility and access
+## Search visibility
 
-The page includes `noindex, nofollow, noarchive` instructions for supporting search engines. Crawling is allowed so search engines can read those instructions. There is no sitemap, analytics, or external font request.
+All HTML pages must include `noindex, nofollow, noarchive, noimageindex`. Crawlers can read the page to see these directives. The profile photo is disallowed in robots.txt. No sitemap, analytics, or external fonts.
 
-This is not access control: the site is public, its URL can be guessed or shared, and crawlers that ignore the directives can still index it. A private source repository also does not make this personal GitHub Pages site private. Do not publish confidential information here.
+The website and repository are public. These directives discourage indexing by supporting search engines; they do not authenticate visitors, enforce link-only access, or control indexing of the GitHub repository.
 
-Apply the same noindex meta tags to any new HTML pages. Search visibility can take time to update if a URL was previously indexed.
+## Updating
 
-## Editing
-
-Edit `index.html` to update the name, introductory text, or styling. Add a bio, projects, and contact links when ready. No build step is needed.
+Edit index.html and commit to main. GitHub Pages republishes changes automatically. Keep project findings qualified as experiments evolve.
